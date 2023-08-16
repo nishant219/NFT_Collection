@@ -17,8 +17,8 @@ Here are some of the images:
 
 | Image | Description |
 |-------|-------------|
-| <img src="https://github.com/nishant219/NFT_Collection/blob/bed5c0d4b8acf4eb797e2eac8fada1cc219fb021/my-app/public/cryptodevs/Screenshot%202023-08-16%20140824.png" alt="Image 1" height="150" width="300" /> | UI image |
-| <img src="https://github.com/nishant219/NFT_Collection/blob/main/my-app/public/cryptodevs/code-CryptoDev.png" alt="Image 2" height="150" width="300" /> | Available functions |
+| <img src="https://raw.githubusercontent.com/nishant219/NFT_Collection/main/my-app/public/cryptodevs/Screenshot%202023-08-16%20140824.png" alt="Image 1" height="150" width="300" /> | UI image |
+| <img src="https://raw.githubusercontent.com/nishant219/NFT_Collection/main/my-app/public/cryptodevs/code-CryptoDev.png" alt="Image 2" height="150" width="300" /> | Available functions |
 
 
 ## Smart Contract Details
