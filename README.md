@@ -12,6 +12,15 @@ The Crypto Devs NFT Collection is an Ethereum-based project that allows users to
 - NFT metadata and images are hosted on IPFS, and the base URI can be customized.
 - Ownership of NFTs is tracked on the Ethereum blockchain using ERC-721 tokens.
 
+## Image Gallery
+Here are some of the images:
+
+| Image | Description |
+|-------|-------------|
+| <img src="https://github.com/nishant219/NFT_Collection/blob/bed5c0d4b8acf4eb797e2eac8fada1cc219fb021/my-app/public/cryptodevs/Screenshot%202023-08-16%20140824.png" alt="Image 1" height="150" width="300" /> | UI image |
+| <img src="https://github.com/nishant219/NFT_Collection/blob/main/my-app/public/cryptodevs/code-CryptoDev.png" alt="Image 2" height="150" width="300" /> | Available functions |
+
+
 ## Smart Contract Details
 
 The project's smart contract is developed using Solidity and leverages the OpenZeppelin library for ERC-721 token and access control features. The contract provides the following functionalities:
